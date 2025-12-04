@@ -1,8 +1,3 @@
-CREATE TABLE Amulet.User (
-    UserId INT AUTO_INCREMENT PRIMARY KEY,
-    Username VARCHAR(100) NOT NULL UNIQUE,
-    PasswordHash VARCHAR(255) NOT NULL,
-    CreatedAt DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    IsActive TINYINT(1) NOT NULL DEFAULT 1
-);
+<img width="1395" height="650" alt="image" src="https://github.com/user-attachments/assets/5941003c-2d33-4e24-abed-de02e745b302" />
+
 ฐานข้อมูล
